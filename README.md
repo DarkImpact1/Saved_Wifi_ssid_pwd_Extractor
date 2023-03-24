@@ -1,4 +1,4 @@
-# Saved_Wifi_ssid_pwd_Extractor
+# Saved_Wifi_ssid_pwd_Extractor (password recovery or password retrieval tool for Wi-Fi networks.)
 Program extracts and saves Wi-Fi network IDs and passwords to document, user-friendly and shareable.
 This program is designed to extract Wi-Fi network IDs and passwords that are saved on a user's computer and then save them to a document. With this program, 
 users can easily retrieve Wi-Fi network credentials that they may have forgotten or lost,or even share them with others who need to connect to the same network.
