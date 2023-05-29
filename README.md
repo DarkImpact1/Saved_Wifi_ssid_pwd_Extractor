@@ -13,7 +13,7 @@ you can run it on windows distribution and for termux it will be available soon.
 
 #### for windows
 ```bash
-  pip install git python3 os subprocess tempfile,smtplib
+  pip install git python3 os subprocess tempfile smtplib
   git clone https://github.com/DarkImpact1/Saved_Wifi_ssid_pwd_Extractor.git
   python3 script.py
 ```
